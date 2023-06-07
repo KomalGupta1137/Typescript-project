@@ -1,0 +1,28 @@
+.container{
+    border: 2px solid grey;
+    padding: 3rem;
+    font-size:0.8rem;
+    color:#333;
+    height:10rem;
+    border-radius:0.7rem;
+    background-color:rgb(240, 226, 207);
+    margin-top: 1rem;
+
+}
+
+.high{
+    background-color:coral;
+
+
+}
+
+.medium{
+    background-color:rgb(248, 153, 118)
+
+
+}
+
+.low{
+    background-color:green
+
+}

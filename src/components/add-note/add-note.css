@@ -1,0 +1,14 @@
+.form-style {
+    display: flex;
+    gap:2rem
+}
+.form-style input{
+    height:40px;
+    line-height: 2 rem;
+    width:80%;
+    border-radius:2rem;
+}
+.form-style button{
+    border-radius:2rem;
+    width:10%;
+}
